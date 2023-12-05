@@ -1,0 +1,7 @@
+name: ChunkCleaner
+main: rycerz125.chunkcleaner.ChunkCleaner
+version: 0.1
+commands:
+  clean:
+    description: Clean your world depending on your {worldName}selection.csv file
+    usage: /clean <world name>
